@@ -1,0 +1,26 @@
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/EmpresaAerea/bin/Debug/netcoreapp3.1/EmpresaAerea
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/EmpresaAerea/bin/Debug/netcoreapp3.1/EmpresaAerea.deps.json
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/EmpresaAerea/bin/Debug/netcoreapp3.1/EmpresaAerea.runtimeconfig.json
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/EmpresaAerea/bin/Debug/netcoreapp3.1/EmpresaAerea.runtimeconfig.dev.json
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/EmpresaAerea/bin/Debug/netcoreapp3.1/EmpresaAerea.dll
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/EmpresaAerea/bin/Debug/netcoreapp3.1/EmpresaAerea.pdb
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/EmpresaAerea/obj/Debug/netcoreapp3.1/EmpresaAerea.csprojAssemblyReference.cache
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/EmpresaAerea/obj/Debug/netcoreapp3.1/EmpresaAerea.AssemblyInfoInputs.cache
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/EmpresaAerea/obj/Debug/netcoreapp3.1/EmpresaAerea.AssemblyInfo.cs
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/EmpresaAerea/obj/Debug/netcoreapp3.1/EmpresaAerea.csproj.CoreCompileInputs.cache
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/EmpresaAerea/obj/Debug/netcoreapp3.1/EmpresaAerea.dll
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/EmpresaAerea/obj/Debug/netcoreapp3.1/EmpresaAerea.pdb
+/home/klaathus/Documents/programacao/DS1/Aula 06.07/EmpresaAerea/obj/Debug/netcoreapp3.1/EmpresaAerea.genruntimeconfig.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\EmpresaAerea\bin\Debug\netcoreapp3.1\EmpresaAerea.exe
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\EmpresaAerea\bin\Debug\netcoreapp3.1\EmpresaAerea.deps.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\EmpresaAerea\bin\Debug\netcoreapp3.1\EmpresaAerea.runtimeconfig.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\EmpresaAerea\bin\Debug\netcoreapp3.1\EmpresaAerea.runtimeconfig.dev.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\EmpresaAerea\bin\Debug\netcoreapp3.1\EmpresaAerea.dll
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\EmpresaAerea\bin\Debug\netcoreapp3.1\EmpresaAerea.pdb
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\EmpresaAerea\obj\Debug\netcoreapp3.1\EmpresaAerea.csprojAssemblyReference.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\EmpresaAerea\obj\Debug\netcoreapp3.1\EmpresaAerea.AssemblyInfoInputs.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\EmpresaAerea\obj\Debug\netcoreapp3.1\EmpresaAerea.AssemblyInfo.cs
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\EmpresaAerea\obj\Debug\netcoreapp3.1\EmpresaAerea.csproj.CoreCompileInputs.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\EmpresaAerea\obj\Debug\netcoreapp3.1\EmpresaAerea.dll
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\EmpresaAerea\obj\Debug\netcoreapp3.1\EmpresaAerea.pdb
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 06.07\EmpresaAerea\obj\Debug\netcoreapp3.1\EmpresaAerea.genruntimeconfig.cache
